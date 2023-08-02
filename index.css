@@ -312,8 +312,8 @@ button {
     display: block;
     width: 29.1666666667vw;
     position: absolute;
-    right: 90px;
-    top:1200px;
+    right: 0px;
+    top:-120px;
 }
 
 .predict img{
